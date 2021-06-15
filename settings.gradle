@@ -1,0 +1,3 @@
+rootProject.name = "UpdatedStringFiles"
+include ':app'
+include ':mylibrary'
