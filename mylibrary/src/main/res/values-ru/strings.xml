@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+	<string name="welcome_message" tools:ignore="ExtraTranslation">здравствуйте</string>
+	<string name="thank_you_message" tools:ignore="ExtraTranslation">спасибо</string>
+	<string name="goodbye_message" tools:ignore="ExtraTranslation">До свидания</string>
+</resources>
